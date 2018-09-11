@@ -11,3 +11,5 @@ Same as above.
 A simple web project.  Just for learning stuff
 
 ## How to continue
+
+2018 git.training
