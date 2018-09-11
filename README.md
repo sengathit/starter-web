@@ -10,6 +10,7 @@ Same as above.
 ## Deployment
 A simple web project.  Just for learning stuff
 
-## How to continue
+## How to contribute
+Please fork this repo and issue pull request for review
 
 2018 git.training
