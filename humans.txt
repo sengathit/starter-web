@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sengathit Lavanh sengathit.l@gmail.com tweettweet
 
 # THANKS
 
