@@ -12,3 +12,6 @@ This is just for some purpose
 You can deploy with these steps
 
 ## How To Contribute
+
+### Copyright
+2018 Git.training
