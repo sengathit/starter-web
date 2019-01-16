@@ -13,6 +13,7 @@ You can deploy with these steps
 
 ## How To Contribute
 Please fork this repository and then issue pull requests for review.
+Then we will do code review.
 
 ### Copyright
 2018 Git.training
