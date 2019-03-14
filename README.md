@@ -15,3 +15,6 @@ This is the unstaged deployment
 Section
 
 ## How to contribute
+
+### Copyright
+2019 git copyright
