@@ -4,7 +4,8 @@ track of
 
 ## Introduction
 Adding the introduction some
-more changes.  Adding a rebasing example.
+more changes.  
+Adding a rebasing example.
 
 ## Purpose
 The will be staged
