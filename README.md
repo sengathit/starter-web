@@ -15,7 +15,8 @@ This is the unstaged deployment
 Section
 
 ## How to contribute
-Please fork me yolo
+The more I learn, 
+The less I know
 
 ### Copyright
 2019 git copyright
