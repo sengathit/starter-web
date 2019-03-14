@@ -1,19 +1,17 @@
-#Starter Web Project
-This is a simple website project
-for tutorial.
+# Starter Web
+The first commit i am keeping 
+track of
 
 ## Introduction
-This is just an example for tutorials.
+Adding the introduction some
+more changes
 
 ## Purpose
-This is just for some purpose
+The will be staged
+on purpose. lol
 
 ## Deployment
-You can deploy with these steps
+This is the unstaged deployment
+Section
 
-## How To Contribute
-Please fork this repository and then issue pull requests for review.
-Then we will do code review.
-
-### Copyright
-2018 Git.training
+## How to contribute
