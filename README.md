@@ -1,16 +1,22 @@
-# Starter Web Project
-Just learning version control using git
+# Starter Web
+The first commit i am keeping 
+track of
 
 ## Introduction
-This is an example to show different parts of Git
+Adding the introduction some
+more changes.  
+Adding a rebasing example.
 
 ## Purpose
-Same as above.
+The will be staged
+on purpose. lol
 
 ## Deployment
-A simple web project.  Just for learning stuff
+This is the unstaged deployment
+Section
 
-## How to contribute
-Please fork this repo and issue pull request for review
+The more I learn, 
+The less I know
 
-2018 git.training
+### Copyright
+2019 git copyright

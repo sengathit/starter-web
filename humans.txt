@@ -7,9 +7,10 @@
 
 # THANKS
 
-    <name>
+    Mak Lavanh <my mom>
+    Khaysone Lavanh <my dad>
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
+    HTML5, CSS3, Javascript
     jQuery, Modernizr
