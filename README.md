@@ -19,4 +19,4 @@ The more I learn,
 The less I know
 
 ### Copyright
-2019 git copyright
+2019 @ All rights reserved.
