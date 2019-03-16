@@ -1,6 +1,6 @@
 # Starter Web
-The first commit i am keeping 
-track of
+Learning to know what 
+I need to know
 
 ## Introduction
 Adding the introduction some
